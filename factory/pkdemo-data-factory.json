@@ -1,0 +1,9 @@
+{
+	"name": "pkdemo-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a9df17d7-f8a5-4d2c-bba8-9285101a0f67",
+		"tenantId": "46f0d6be-6f89-4f4c-a63e-b62fd2ea94cb"
+	}
+}
